@@ -79,6 +79,6 @@ Output:
 Predicted Category: business
 ```
 
-## License
+## Deploy Link
 
-Add your preferred license here.
+[Add your preferred license here.](https://text-prediction-app.streamlit.app)
